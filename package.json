@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "muhabbat-dev",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -9,6 +9,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.1.6"
+    "@astrojs/tailwind": "^5.1.4",
+    "astro": "^5.1.6",
+    "tailwindcss": "^3.4.17"
+  },
+  "devDependencies": {
+    "daisyui": "^4.12.23"
   }
 }
