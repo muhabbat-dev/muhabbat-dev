@@ -1,7 +1,44 @@
 # 💫 About Me:
-# Hi, I'm Muhabbat 👋<br><br>**Software engineer** <br>Full Stack Developer with 3 years of experience and passionate about DevOps<br><br>---<br><br>## 🔭 What I do<br>- Build mobile & web apps <br>- Work with TypeScript, Flutter, Node.js<br>- Cloud Computing, Docker, Kubernetes, Terraform<br>- I like clean code and simple solutions.<br><br>---<br><br>## 🛠️ Tech stack<br>- **Frontend:** React, TypeScript, Astro, HTML, CSS<br>- **Languages:** JavaScript / TypeScript, Lua (basic)<br>- **Tools & DevOps:** Git, Vite, Node.js<br>- **Other:** REST APIs, basic backend concepts<br><br><br>## 🎓 Education<br>- Master’s student in Paris.  <br>- Focus: Web Development & DevOps<br><br>---<br><br>## 🌍 Languages<br>- English — professional<br>- French — learning<br><br>---<br><br>## 📫 Contact<br>- Email: `muhabbat.fr@gmail.com`  <br>- LinkedIn: `linkedin.com/in/muhabbat-ali`  
-- Website: `https://muhabbat.dev`  <br>
-<br><br>---<br><br>## ⚡ Fun fact<br>I prefer simple solutions. I like trying small experiments and shipping fast.<br><br>---<br>
+# Hi, I'm Muhabbat 👋
+##**Software engineer** 
+Full Stack Developer with 3 years of experience and passionate about DevOps
+
+---
+
+## 🔭 What I do
+- Build mobile & web apps
+- Work with TypeScript, Flutter, Node.js
+- Cloud Computing, Docker, Kubernetes, Terraform
+- I like clean code and simple solutions.
+
+---
+
+## 🛠️ Tech stack
+- **Frontend:** React, TypeScript, Astro, HTML, CSS
+- **Languages:** JavaScript / TypeScript, Lua (basic)
+- **Tools & DevOps:** Git, Vite, Node.js
+- **Other:** REST APIs, basic backend concepts
+
+
+## 🎓 Education
+- Master’s of Computer Science (Software Engineering), France
+
+---
+## 🌍 Languages
+- English — B2
+- French — A1
+
+---
+
+## 📫 Contact
+- Email: `muhabbat.fr@gmail.com`
+- LinkedIn: `linkedin.com/in/muhabbat-ali`  
+- Website: `https://muhabbat.dev`
+
+
+---
+
+## ⚡ Fun fact<br>I prefer simple solutions. I like trying small experiments and shipping fast.<br><br>---<br>
 
 
 ## 🌐 Socials:
