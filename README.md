@@ -1,11 +1,11 @@
 # 💫 About Me:
 # Hi, I'm Muhabbat 👋
-##**Software engineer** 
+## **Software engineer** 
 Full Stack Developer with 3 years of experience and passionate about DevOps
 
 ---
 
-## 🔭 What I do
+## **What I do**
 - Build mobile & web apps
 - Work with TypeScript, Flutter, Node.js
 - Cloud Computing, Docker, Kubernetes, Terraform
@@ -13,32 +13,30 @@ Full Stack Developer with 3 years of experience and passionate about DevOps
 
 ---
 
-## 🛠️ Tech stack
+## **Tech stack**
 - **Frontend:** React, TypeScript, Astro, HTML, CSS
 - **Languages:** JavaScript / TypeScript, Lua (basic)
 - **Tools & DevOps:** Git, Vite, Node.js
 - **Other:** REST APIs, basic backend concepts
 
 
-## 🎓 Education
+## **Education**
 - Master’s of Computer Science (Software Engineering), France
 
 ---
-## 🌍 Languages
+## **Languages**
 - English — B2
 - French — A1
 
 ---
 
-## 📫 Contact
+## **Contact**
 - Email: `muhabbat.fr@gmail.com`
 - LinkedIn: `linkedin.com/in/muhabbat-ali`  
 - Website: `https://muhabbat.dev`
 
 
 ---
-
-## ⚡ Fun fact<br>I prefer simple solutions. I like trying small experiments and shipping fast.<br><br>---<br>
 
 
 ## 🌐 Socials:
